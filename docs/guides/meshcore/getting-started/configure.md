@@ -130,6 +130,8 @@ The following channels are commonly used in the MeshCore community. Hash channel
 | `#chicago` | `c1c289b131e5222370cbc2048445844b` |
 | `#chimesh` | `869d8ae6f43e99f7ef463027f916f1fc` |
 | `#suburbs` | `428a0416c430927e63d01a5da35839f0` |
+| `#nwburbs` | `988239d85dac1c5f3805976b4fae1e17` |
+| `#westburbs` | `61cf1c9e7fccc2df4704864ccf8fe306` |
 
 #### Interests
 | Channel Name | Secret Key |
@@ -152,8 +154,11 @@ The following channels are commonly used in the MeshCore community. Hash channel
 #### Utility & Testing
 | Channel Name | Secret Key |
 |---|---|
+| `#alerts` | `b8212240d8b433b54db46906738e2094` |
 | `#bot` | `eb50a1bcb3e4e5d7bf69a57c9dada211` |
+| `meetups` | `1e04bf3679e19c1277757375e5dbff7c` |
 | `#test` | `9cd8fcf22a47333b591d96a2b848b73f` |
+| `#testing` | `cde5e82cf515647dcb547a79a4f065d1` |
 | `#healthcheck` | `3ae59c2cda86744c75e68b3975a902ae` |
 | `#wardriving` | `e3c26491e9cd321e3a6be50d57d54acf` |
 | `#chimesh-observer-alert` | `5223d5371c7c13c349341d5f9537a555` |
